@@ -68,6 +68,6 @@ display por separado antes de crear las tareas. `kLogCounterSteps = true` imprim
 
 ## Integrantes
 
--Oswaldo Martin Alvarado Esparza  11036
--Luis Roberto Casas Caballero     10072
--Juan Luis Trejo Garcia 11163
+-Oswaldo Martin Alvarado Esparza  11036 \n
+-Luis Roberto Casas Caballero     10072 \n
+-Juan Luis Trejo Garcia 11163 \n
