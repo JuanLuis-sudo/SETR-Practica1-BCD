@@ -63,3 +63,11 @@ Al pasar de OPPOSITE a SAME: con DOWN ambos displays toman el dígito menor; con
 
 En `app_config.hpp`, `kRunSelfTests = true` prueba `BcdCounter` (por UART) y muestra 0-9 en cada
 display por separado antes de crear las tareas. `kLogCounterSteps = true` imprime cada paso.
+
+## Tabla de comportamiento
+
+## Integrantes
+
+-Oswaldo Martin Alvarado Esparza  11036
+-Luis Roberto Casas Caballero     10072
+-Juan Luis Trejo Garcia 11163
